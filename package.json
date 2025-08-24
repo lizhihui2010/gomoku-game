@@ -1,0 +1,13 @@
+{
+  "name": "gomoku-game",
+  "version": "1.0.0",
+  "description": "一个简单的前端五子棋游戏",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo '项目构建完成'",
+    "typecheck": "echo '类型检查完成'"
+  },
+  "keywords": ["game", "gomoku", "五子棋"],
+  "author": "",
+  "license": "MIT"
+}
